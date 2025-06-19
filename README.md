@@ -1,0 +1,1 @@
+Here are a variety of different Python Pipelines I have put together for analyzing, creating/fixing common data pitfalls such as inconsistent dates, names, duplicates, and address. There are also pitfalls for missing columns and null values, as well as an analysis on fallacy data sets using logical regresion. 
